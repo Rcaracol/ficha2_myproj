@@ -1,4 +1,11 @@
-este e o exemplo 3 
+este e o exemplo 3
+<h2>Bebidas</h2>
+
+<ul>
+  <li>Coffe</li>
+  <li>Tea</li> 
+  <li>Milk</li>
+</ul>
 
 <h1>Lista de coisas</h1>
 
